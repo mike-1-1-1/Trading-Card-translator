@@ -1,0 +1,17 @@
+.env
+agent_core_cache_dir
+__pycache__
+devTools
+venv
+# Ignore all common image formats
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.bmp
+*.tiff
+*.ico
+*.heic
+*.avif
